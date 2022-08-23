@@ -1,7 +1,7 @@
 # SquareOfDeath
 
 If I am being completely honest, the game "Square of Death" is a drinking game I was playing with a couple friends on holiday. 
-Two of my friends ended up debating who had the best strategy and which didn't really go anywhere after a few drinks.
+Two of my friends ended up debating who had the best strategy which didn't really go anywhere after a few drinks.
 
 Both of my friends were stubbornly sure they had the best strategy, so the next morning I decided to spend a couple hours writing a simulation.
 
@@ -12,8 +12,7 @@ I can't find the actual game online, so I assume the game has been adapted over 
 Basic rules:
 
 9 (3x3) cards are placed face up making the board. A player chooses a card and says higher or lower. A card is then dealt from the deck of cards 
-and placed face-up. If they were correct, they continue until they have correctly predicted 3 dealt cards in a row. If they make a false prediction, 
-they have to drink as many times as there are cards on that pile and then continue until they get 3 correct in a row.
+and placed face-up. If the new card was guessed correctly (higher or lower), they continue until they have correctly predicted 3 dealt cards in a row. If they make a false prediction, they have to drink as many times as there are cards on that pile. They then continue until they get 3 correct in a row.
 
 If there is a king on the board, then that is a good card as statistically you can say 'lower' and the chances are very high that you will be correct.
 The decision is more difficult when the board is made up of cards around the middle point 7.
